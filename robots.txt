@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oaklawnwaterheater.com/sitemap.xml
